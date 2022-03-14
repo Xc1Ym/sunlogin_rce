@@ -1,7 +1,5 @@
 import sys
-
 import requests
-
 
 class RCE:
 
